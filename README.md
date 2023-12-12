@@ -10,11 +10,12 @@ npm i and npm start, follow local host link and get started on website.
 
 ## Usage
 
+Take all the notes you would like, this is JATE.
 
 
 ## Credits
 
-Phil demo'ed this in class, and Charlie tutored me through getting it deployed. 
+Phil demo'ed this in class, Charlie tutored me, and I coded this myself - loved this little project.
 
 ## License
 MIT
